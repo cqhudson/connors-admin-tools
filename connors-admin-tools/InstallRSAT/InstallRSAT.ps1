@@ -1,1 +1,0 @@
-﻿Get-WindowsCapability -Online -Name RSAT* | Add-WindowsCapability -Online
