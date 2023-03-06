@@ -4,7 +4,7 @@
 # 
 
 # Change this to the name of the folder you are deploying
-$Folder = "Folder1"
+$Folder = "files-to-upload"
 
 # Parent directory of the current script being executed
 $PSScriptRoot = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition 
