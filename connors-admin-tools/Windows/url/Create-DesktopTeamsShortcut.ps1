@@ -25,8 +25,6 @@ $IconFile = "$PSScriptRoot\teams.ico"
 Add-Content -Path "$PublicDesktopPath\$ShortcutName" -Value "IconFile=$IconFile"
 Add-Content -Path "$PublicDesktopPath\$ShortcutName" -Value "IconIndex=0"
 
-$Icon = ".\tea"
-
 # clean up the COM objects
 [System.Runtime.Interopservices.Marshal]::ReleaseComObject($shortcut) | Out-Null
 [System.Runtime.Interopservices.Marshal]::ReleaseComObject($shell) | Out-Null
