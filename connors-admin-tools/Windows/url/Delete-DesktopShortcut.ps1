@@ -1,5 +1,5 @@
 $StorePath = [Environment]::GetFolderPath("Desktop")
-$ShortcutName = "HUDSON.TEL.url"
+$ShortcutName = "Microsoft Teams.url"
 $Shortcut = "$StorePath\$ShortcutName"
 
 Remove-Item -Path $Shortcut -Force
