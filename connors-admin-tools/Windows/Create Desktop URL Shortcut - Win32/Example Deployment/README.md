@@ -1,0 +1,1 @@
+This example configuration deployment will deploy the weblink to https://teams.microsoft.com onto the Public Desktop folder.
