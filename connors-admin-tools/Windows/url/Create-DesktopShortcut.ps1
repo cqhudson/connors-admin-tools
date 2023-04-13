@@ -11,8 +11,8 @@
 # Path where you want to store the shortcut. Set to the currently logged in user's Desktop folder.
 $StorePath = [Environment]::GetFolderPath("Desktop") # Change to ("CommonDesktopDirectory") for Public Desktop
 
-$URL = "https://hudson.tel" # Change to whatever link you want
-$ShortcutName = "HUDSON.TEL.url" # Must end with .url
+$URL = "https://teams.microsoft.com" # Change to whatever link you want
+$ShortcutName = "Microsoft Teams.url" # Must end with .url
 $IconFileName = "teams.ico"
 $Shell = New-Object -ComObject ("WScript.Shell")
 
