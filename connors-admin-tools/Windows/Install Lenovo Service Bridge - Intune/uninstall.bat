@@ -1,0 +1,1 @@
+%LocalAppData%\Programs\Lenovo\"Lenovo Service Bridge"\unins000.exe /VERYSILENT /SP- /ALLUSERS

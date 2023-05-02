@@ -1,0 +1,1 @@
+.\LSBSetup.exe /ALLUSERS /VERYSILENT /SP-
