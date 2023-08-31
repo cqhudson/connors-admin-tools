@@ -1,0 +1,6 @@
+WRITE A DETECTION SCRIPT!!!
+
+
+use "exit 0" and a "write-output" to return a success
+
+use "exit 1" to return a failure.
